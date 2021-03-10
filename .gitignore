@@ -1,0 +1,4 @@
+Input/*.mp3
+Model/*.h5
+Model/*.ann
+__pycache__
