@@ -1,0 +1,8 @@
+numpy
+tensorflow
+matplotlib
+os
+math
+librosa
+flask
+requests
